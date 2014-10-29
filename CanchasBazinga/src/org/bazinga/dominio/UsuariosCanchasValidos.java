@@ -1,4 +1,4 @@
-package org.bazinga.clasesDatos;
+package org.bazinga.dominio;
 
 public class UsuariosCanchasValidos {
 	
